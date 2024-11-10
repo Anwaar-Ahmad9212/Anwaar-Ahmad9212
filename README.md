@@ -24,4 +24,4 @@ A canon event of my life was malware attack. That 2019 led me towards the field 
 
 ### Badges
 
-<a href="https://github.com/Anwaar-Ahmad9212" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaar-Ahmad9212&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Anwaar-Ahmad9212" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwaar-Ahmad9212&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=ffffff&bg_color=000001&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
